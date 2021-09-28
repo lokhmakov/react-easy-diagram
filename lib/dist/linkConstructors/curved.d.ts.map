@@ -1,0 +1,1 @@
+{"version":3,"file":"curved.d.ts","sourceRoot":"","sources":["../../src/linkConstructors/curved.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,oBAAoB,EAErB,MAAM,yBAAyB,CAAC;AA0BjC,MAAM,WAAW,kCAAkC;IACjD,eAAe,EAAE,MAAM,CAAC;IACxB,mCAAmC,EAAE,CACnC,QAAQ,EAAE,MAAM,EAChB,eAAe,EAAE,MAAM,KACpB,MAAM,CAAC;CACb;AAYD,wBAAgB,+BAA+B,CAC7C,QAAQ,CAAC,EAAE,OAAO,CAAC,kCAAkC,CAAC,GACrD,oBAAoB,CAUtB"}

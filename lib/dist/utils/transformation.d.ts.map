@@ -1,0 +1,1 @@
+{"version":3,"file":"transformation.d.ts","sourceRoot":"","sources":["../../src/utils/transformation.ts"],"names":[],"mappings":"AAAA,OAAO,EAAkB,KAAK,EAAE,gBAAoB;AAEpD,eAAO,MAAM,iBAAiB,oDAAuC,MAQpE,CAAC;AAEF,MAAM,WAAW,eAAe;IAC9B,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,EAAE,KAAK,CAAC;CACf;AAED,eAAO,MAAM,sBAAsB,MAC9B,eAAe,KACf,eAAe,KACjB,OAEkE,CAAC"}

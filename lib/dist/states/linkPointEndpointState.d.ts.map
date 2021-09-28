@@ -1,0 +1,1 @@
+{"version":3,"file":"linkPointEndpointState.d.ts","sourceRoot":"","sources":["../../src/states/linkPointEndpointState.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,EAAE,uBAAoB;AAGpC,qBAAa,sBAAsB;IACjC,OAAO,CAAC,MAAM,CAAQ;gBAEV,GAAG,EAAE,KAAK;IAKtB,IAAI,KAAK,UAER;IAED,WAAW,sCAET;CACH"}

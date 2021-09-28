@@ -1,0 +1,1 @@
+{"version":3,"file":"useNodeUserInteraction.d.ts","sourceRoot":"","sources":["../../../src/hooks/userInteractions/useNodeUserInteraction.ts"],"names":[],"mappings":"AAQA,OAAO,KAAuC,MAAM,OAAO,CAAC;AAE5D,OAAO,EAAE,SAAS,EAAE,+BAAyB;AAG7C,eAAO,MAAM,sBAAsB,cACtB,SAAS,KACnB,MAAM,SAAS,CAAC,WAAW,CAuF7B,CAAC;AAcF,eAAO,MAAM,kCAAkC,oDACI,CAAC;AACpD,eAAO,MAAM,mCAAmC,qDACI,CAAC"}
